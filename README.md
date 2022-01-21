@@ -14,7 +14,7 @@ If you have found value in something that I've created, please feel free to let 
 - ⚖️ Law & public policy
 
 ## My work 💼
-Coadjutant Faculty, Master of Public Informatics, 2022 - present at [Rutgers University, Edward J. Bloustein School of Planning & Public Policy
+Coadjutant Faculty, Master of Public Informatics, 2022 - present at [Rutgers University, Edward J. Bloustein School of Planning & Public Policy](https://bloustein.rutgers.edu)
 Research Computing Specialist, 2020 - present at [Rutgers Urban & Civic Informatics Lab](https://rucilab.rutgers.edu)
 
 ## Education 🏫
