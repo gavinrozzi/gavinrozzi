@@ -19,14 +19,6 @@ My work sits at the intersection of government, data infrastructure, and open so
 
 ---
 
-## 🧰 Side Projects
-
-- [**ExhibitPrep**](https://www.exhibitprep.com) — Legal exhibit stamping and Bates numbering in the browser
-- [**Shore-Guide**](https://shore-guide.com) — A guide to the NJ shore
-- [**NonprofitLens**](https://nonprofitlens.com) — Exploring nonprofit 990 data
-
----
-
 ## ✒️ Blog
 
 I write about my projects, civic tech, and whatever rabbit hole I'm currently in.
